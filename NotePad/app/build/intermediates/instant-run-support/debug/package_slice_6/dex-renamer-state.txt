@@ -1,0 +1,4 @@
+#Thu May 07 21:56:31 CST 2020
+base.0=D\:\\AntroidStudio\\work\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\AntroidStudio\\work\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
